@@ -1,0 +1,5 @@
+ffmpeg-python
+torch
+torchvision
+openai-whisper
+torchaudio
